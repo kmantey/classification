@@ -1,0 +1,10 @@
+pandas
+numpy
+FastAPI
+matplotlib
+seaborn
+plotly
+scikit-learn
+sklearn.metrics
+
+
